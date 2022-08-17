@@ -1,4 +1,4 @@
-### Silvio Santoriello 👨‍💻
+### Silvio Santoriello  👨‍💻
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=silviosanto6605&show_icons=true)
 
